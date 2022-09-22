@@ -1,16 +1,86 @@
-# chat_buddy
+# Flutter We Chat App
 
-A new Flutter project.
+<br>
 
-## Getting Started
+# 💻Tech Stack Used
 
-This project is a starting point for a Flutter application.
+- Frontend - Flutter
+- Database - Firebase
 
-A few resources to get you started if this is your first Flutter project:
+<br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# ✨ Requirements
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Any Operating System (ie. MacOS X, Linux, Windows) with MySQL installed for the respective OS
+- Any IDE with Flutter SDK installed (ie. Android Studio, VSCode, IntelliJ, etc)
+
+<br>
+
+# 📝Steps to run
+
+<br>
+
+1. Clone this repository, using `git clone https://github.com/nirala96/Food-Ordering-App.git`
+
+2. open in Android studio and run `pub get`
+3. Set up an android emulator or your android device and run.😊
+
+<br>
+
+# Screenshots
+
+### ⚡ Login - Signup
+
+<br>
+<p align="center">
+    <img src="Screenshots/register.png" width="30%"></img> <img src="Screenshots/login.png" width="30%"></img> 
+</p>
+<br>
+<br>
+
+### ⚡ Home Page
+
+<br>
+<p align="center">
+    <img src="Screenshots/HomePage.png" width="30%"></img> 
+</p>
+
+<br>
+<br>
+
+### ⚡ Profile Screen
+
+<br>
+<p align="center">
+    <img src="Screenshots/profilescreen.jpeg" width="30%"></img> <img src="Screenshots/killscreen.jpeg" width="30%"></img> 
+</p>
+<br>
+<br>
+
+<!-- ### ⚡ Forms (DishEdit - DishAdd - ProfileEdit)
+
+<br>
+<p align="center">
+    <img src="Screenshots/editdish.jpeg" width="30%"></img> <img src="Screenshots/adddishform.jpeg" width="30%"></img> <img src="Screenshots/editprofile.jpeg" width="30%"></img>
+</p> -->
+
+<!-- <br>
+<br> -->
+
+### ⚡ Working App (User Side - Admin Side)
+
+<br>
+<img src="Screenshots/user-side.gif" width="45%"></img>
+<img src="Screenshots/admin-side.gif" width="45%"></img>
+<br>
+<br>
+
+### ⚡ Database View
+
+<br>
+<img src="Screenshots/Database.png" width="45%"></img>
+<br>
+<br>
+
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Manoj735.
+Chat-Buddy)☕
