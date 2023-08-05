@@ -52,26 +52,25 @@
 
 <br>
 <p align="center">
-    <img src="Screenshots/profilescreen.jpeg" width="30%"></img> <img src="Screenshots/killscreen.jpeg" width="30%"></img> 
+    <img src="Screenshots/profile.png" width="30%"></img> 
 </p>
 <br>
 <br>
 
-<!-- ### ⚡ Forms (DishEdit - DishAdd - ProfileEdit)
+### ⚡ Group Info Page
 
 <br>
 <p align="center">
-    <img src="Screenshots/editdish.jpeg" width="30%"></img> <img src="Screenshots/adddishform.jpeg" width="30%"></img> <img src="Screenshots/editprofile.jpeg" width="30%"></img>
+    <img src="Screenshots/GroupInfo.png" width="30%"></img> <img src="Screenshots/info.png" width="30%"></img> <img src="Screenshots/search.png" width="30%"></img>
 </p> -->
 
 <!-- <br>
 <br> -->
 
-### ⚡ Working App (User Side - Admin Side)
+### ⚡ Message Page
 
 <br>
-<img src="Screenshots/user-side.gif" width="45%"></img>
-<img src="Screenshots/admin-side.gif" width="45%"></img>
+<img src="Screenshots/MessagePage.png" width="45%"></img>
 <br>
 <br>
 
